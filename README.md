@@ -28,60 +28,36 @@ Building Modern Websites • Mobile Apps • Backend APIs • Open Source
 
 # 👨‍💻 About Me
 
-🎓 Diploma in Computer Science Engineering
+Hello! I'm **Manohar Singampalli**, a motivated Diploma Computer Science Engineering student and Full Stack Web Developer from Andhra Pradesh, India.
 
-💻 Passionate Full Stack Web Developer
+I am passionate about designing and developing scalable web and mobile applications with clean, maintainable code and intuitive user experiences.
 
-📱 Flutter Developer
+My technical interests include Full Stack Development, Flutter, REST APIs, Backend Engineering, Database Management, and Artificial Intelligence.
 
-🚀 Interested In
+I believe in continuous learning and enjoy building real-world projects that strengthen my technical and problem-solving skills.
 
-- Full Stack Development
-- Backend Development
-- Mobile App Development
-- Artificial Intelligence
+Currently, I am looking for internship and entry-level software development opportunities where I can contribute to meaningful projects while expanding my expertise.
 
-💼 Looking For
 
-- Software Developer Internship
-- Full Stack Developer Internship
-- Flutter Developer Internship
-- Entry-Level Software Developer Roles
-
-📍 Andhra Pradesh, India
 
 ---
 
 # 💻 Tech Stack
 
-### Frontend
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react"/>
-</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 ---
 
