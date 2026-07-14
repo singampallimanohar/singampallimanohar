@@ -34,15 +34,6 @@ Building Modern Websites • Mobile Apps • Backend APIs • Open Source
 
 📱 Flutter Developer
 
-🌱 Currently Learning
-
-- React.js
-- Node.js
-- Express.js
-- REST APIs
-- Flutter
-- MySQL
-
 🚀 Interested In
 
 - Full Stack Development
