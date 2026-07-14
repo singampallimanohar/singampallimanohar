@@ -26,6 +26,8 @@ I am a Diploma Computer Science student passionate about building modern web and
 ### Backend
 - Node.js
 - Express.js
+- python
+- django
 
 ### Mobile
 - Flutter
@@ -37,7 +39,6 @@ I am a Diploma Computer Science student passionate about building modern web and
 - Git
 - GitHub
 - VS Code
-- Postman
 
 ---
 
@@ -66,9 +67,9 @@ Modern responsive website for a photography business.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 🌐 Portfolio: https://YOUR-PORTFOLIO-LINK
-- 📧 Email: YOUR-EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/singampallimanohar/
+- 🌐 Portfolio:https://singampallimanohar.netlify.app/
+- 📧 Email: singampallimanohar6@gmail.com
 
 ---
 
