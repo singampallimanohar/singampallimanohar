@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi there 👋, I'm Manohar Singampalli
 
-<!--
-**singampallimanohar/singampallimanohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Diploma CSE Student | Full Stack Web Developer
 
-Here are some ideas to get you started:
+I am a Diploma Computer Science student passionate about building modern web and mobile applications. I enjoy learning new technologies and creating real-world projects that solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Diploma in Computer Science Engineering
+- 🌱 Currently learning Full Stack Development
+- 💼 Looking for Internship & Entry-Level Software Developer opportunities
+- 📍 Andhra Pradesh, India
+
+---
+
+## 🛠️ Skills
+
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+
+### Backend
+- Node.js
+- Express.js
+
+### Mobile
+- Flutter
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Portfolio Website
+Professional responsive portfolio built using HTML, CSS and JavaScript.
+
+### 📱 Smart Attendance System
+Flutter + Node.js + MySQL attendance system with face recognition, GPS verification and admin dashboard.
+
+### 📷 Photography Studio Website
+Modern responsive website for a photography business.
+
+---
+
+## 📈 Currently Learning
+
+- React.js
+- REST APIs
+- Firebase
+- Deployment
+- Software Development Best Practices
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 🌐 Portfolio: https://YOUR-PORTFOLIO-LINK
+- 📧 Email: YOUR-EMAIL
+
+---
+
+## ⭐ Thanks for visiting my profile!
+
+If you like my work, consider starring my repositories.
