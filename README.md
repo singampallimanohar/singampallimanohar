@@ -1,122 +1,218 @@
 <h1 align="center">Hi 👋, I'm Manohar Singampalli</h1>
-<h3 align="center">Diploma CSE Student | Full Stack Web Developer | Flutter Developer</h3>
+
+<h3 align="center">
+🚀 Diploma CSE Student | Full Stack Web Developer | Flutter Developer
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/singampallimanohar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://singampallimanohar.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:singampallimanohar6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+Building Modern Websites • Mobile Apps • Backend APIs • Open Source
+</p>
+
+<p align="center">
+
+<a href="https://singampallimanohar.netlify.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blue?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/singampallimanohar/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:singampallimanohar6@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 Diploma in Computer Science Engineering
 
 💻 Passionate Full Stack Web Developer
 
-📱 Flutter App Developer
+📱 Flutter Developer
 
-🌱 Currently learning Node.js, Express.js, Flutter & MySQL
+🌱 Currently Learning
 
-🚀 Interested in Web Development, Mobile Apps and AI Projects
+- React.js
+- Node.js
+- Express.js
+- REST APIs
+- Flutter
+- MySQL
 
-💼 Open to Internship and Entry-Level Software Developer Opportunities
+🚀 Interested In
+
+- Full Stack Development
+- Backend Development
+- Mobile App Development
+- Artificial Intelligence
+
+💼 Looking For
+
+- Software Developer Internship
+- Full Stack Developer Internship
+- Flutter Developer Internship
+- Entry-Level Software Developer Roles
 
 📍 Andhra Pradesh, India
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
 ### Frontend
 
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react"/>
+</p>
 
 ### Backend
 
-- Node.js
-- Express.js
-
-### Mobile
-
-- Flutter
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
 ### Database
 
-- MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
+</p>
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- Postman
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🌐 Personal Portfolio
-Professional responsive portfolio website showcasing my projects and skills.
+## 🌐 Personal Portfolio
 
-🔗 https://singampallimanohar.netlify.app/
+Professional responsive portfolio website.
+
+### Features
+
+- Responsive Design
+- Modern UI
+- Dark Theme
+- Animations
+- Project Showcase
+- Contact Form
+
+🔗 Live Website
+
+https://singampallimanohar.netlify.app
 
 ---
 
-### 📱 Smart Attendance System
+## 📱 Smart Attendance System
 
 Flutter + Node.js + MySQL
 
-✔ Face Recognition
+### Features
 
-✔ GPS Attendance
+✅ Face Recognition
 
-✔ Admin Dashboard
+✅ GPS Attendance
 
-✔ Reports
+✅ Admin Dashboard
 
-✔ PDF & Excel Export
+✅ Student Dashboard
 
----
+✅ Attendance Reports
 
-### 📷 Photography Studio Website
+✅ PDF Export
 
-Responsive business website with modern UI.
-
----
-
-### 🌿 Hari Naturals Website
-
-Modern responsive product showcase website.
+✅ Excel Export
 
 ---
 
-## 🌱 Currently Learning
+## 📷 Photography Studio Website
 
-- React.js
-- REST APIs
-- Flutter
-- Node.js
-- Express.js
-- Deployment
+Business Website
+
+- Responsive Design
+- Gallery
+- Contact Form
+- Booking Section
 
 ---
 
-## 📫 Connect With Me
+## 🌿 Hari Naturals Website
+
+Business Product Website
+
+- Responsive UI
+- Product Showcase
+- Contact Form
+- Mobile Friendly
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=singampallimanohar&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=singampallimanohar&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singampallimanohar&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=singampallimanohar&theme=tokyonight&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=singampallimanohar&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/singampallimanohar/singampallimanohar/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
 
 🌐 Portfolio
 
-https://singampallimanohar.netlify.app/
+https://singampallimanohar.netlify.app
 
 💼 LinkedIn
 
@@ -128,12 +224,16 @@ singampallimanohar6@gmail.com
 
 ---
 
-## 💡 Career Objective
+# 🎯 Career Objective
 
-I am a passionate Computer Science student who enjoys building modern web and mobile applications. I am looking for opportunities where I can apply my technical skills, learn from experienced developers, and contribute to impactful software projects.
+I am a Diploma Computer Science student passionate about developing modern web and mobile applications. I enjoy learning new technologies, solving real-world problems, and building projects that create value. I am seeking internship and entry-level software development opportunities where I can contribute, grow, and continue improving my technical skills.
 
 ---
 
-⭐ Thanks for visiting my profile!
+<h3 align="center">
 
-If you like my projects, don't forget to ⭐ Star my repositories.
+⭐ Thank You for Visiting My GitHub Profile ⭐
+
+If you like my work, consider giving my repositories a ⭐ Star.
+
+</h3>
