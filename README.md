@@ -28,17 +28,10 @@ Building Modern Websites • Mobile Apps • Backend APIs • Open Source
 
 # 👨‍💻 About Me
 
-Hello! I'm **Manohar Singampalli**, a motivated Diploma Computer Science Engineering student and Full Stack Web Developer from Andhra Pradesh, India.
-
-I am passionate about designing and developing scalable web and mobile applications with clean, maintainable code and intuitive user experiences.
-
-My technical interests include Full Stack Development, Flutter, REST APIs, Backend Engineering, Database Management, and Artificial Intelligence.
-
-I believe in continuous learning and enjoy building real-world projects that strengthen my technical and problem-solving skills.
-
-Currently, I am looking for internship and entry-level software development opportunities where I can contribute to meaningful projects while expanding my expertise.
-
-
+💻 Passionate Full Stack Developer with a strong interest in building innovative web and mobile applications.
+🎓 Diploma Computer Science Engineering student committed to continuous learning and technical excellence.
+🚀 Experienced in developing real-world projects using modern technologies and best practices.
+💼 Eager to contribute, learn, and grow through internship and entry-level Software Developer opportunities.
 
 ---
 
@@ -74,12 +67,6 @@ https://www.linkedin.com/in/singampallimanohar/
 📧 Email
 
 singampallimanohar6@gmail.com
-
----
-
-# 🎯 Career Objective
-
-I am a Diploma Computer Science student passionate about developing modern web and mobile applications. I enjoy learning new technologies, solving real-world problems, and building projects that create value. I am seeking internship and entry-level software development opportunities where I can contribute, grow, and continue improving my technical skills.
 
 ---
 
