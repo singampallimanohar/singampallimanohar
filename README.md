@@ -69,11 +69,3 @@ https://www.linkedin.com/in/singampallimanohar/
 singampallimanohar6@gmail.com
 
 ---
-
-<h3 align="center">
-
-⭐ Thank You for Visiting My GitHub Profile ⭐
-
-If you like my work, consider giving my repositories a ⭐ Star.
-
-</h3>
